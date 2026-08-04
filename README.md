@@ -14,21 +14,6 @@
 
 ---
 
-## 🚀 Funcionalidades Chave
-
-* **Mecânicas:** Pulo, Pulo Duplo, Dash.
-* **Obstáculos:** Espinhos e plataformas móveis.
-* **Extras:** Power-ups de velocidade e pontos.
-
----
-
-## 🤝 Regras de Versionamento (Git)
-
-1. **Trabalhe em Branches:** Crie uma branch para cada nova feature.
-2. **Commits Claros:** Escreva mensagens curtas e objetivas (ex: `Adicionado pulo duplo`).
-3. **Sem Conflitos:** Resolva conflitos antes de fazer merge na `main`.
-
----
 
 ## 📥 Como Rodar
 
